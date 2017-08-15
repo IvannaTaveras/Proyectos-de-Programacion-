@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\2 proyecto\2 proyecto\bin\Debug\2 proyecto.exe.config
+C:\Users\DELL\Desktop\2 proyecto\2 proyecto\obj\Debug\2 proyecto.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\2 proyecto\2 proyecto\bin\Debug\2 proyecto.exe
+C:\Users\DELL\Desktop\2 proyecto\2 proyecto\bin\Debug\2 proyecto.pdb
+C:\Users\DELL\Desktop\2 proyecto\2 proyecto\obj\Debug\2 proyecto.exe
+C:\Users\DELL\Desktop\2 proyecto\2 proyecto\obj\Debug\2 proyecto.pdb

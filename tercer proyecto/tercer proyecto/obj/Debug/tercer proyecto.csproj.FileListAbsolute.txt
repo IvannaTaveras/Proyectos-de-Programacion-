@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\tercer proyecto\tercer proyecto\bin\Debug\tercer proyecto.exe.config
+C:\Users\DELL\Desktop\tercer proyecto\tercer proyecto\bin\Debug\tercer proyecto.exe
+C:\Users\DELL\Desktop\tercer proyecto\tercer proyecto\bin\Debug\tercer proyecto.pdb
+C:\Users\DELL\Desktop\tercer proyecto\tercer proyecto\obj\Debug\tercer proyecto.exe
+C:\Users\DELL\Desktop\tercer proyecto\tercer proyecto\obj\Debug\tercer proyecto.pdb
+C:\Users\DELL\Desktop\tercer proyecto\tercer proyecto\obj\Debug\tercer proyecto.csprojResolveAssemblyReference.cache

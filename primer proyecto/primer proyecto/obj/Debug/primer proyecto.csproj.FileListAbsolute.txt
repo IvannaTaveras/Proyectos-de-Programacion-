@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe.config
+C:\Users\DELL\Desktop\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe
+C:\Users\DELL\Desktop\primer proyecto\primer proyecto\bin\Debug\primer proyecto.pdb
+C:\Users\DELL\Desktop\primer proyecto\primer proyecto\obj\Debug\primer proyecto.exe
+C:\Users\DELL\Desktop\primer proyecto\primer proyecto\obj\Debug\primer proyecto.pdb
